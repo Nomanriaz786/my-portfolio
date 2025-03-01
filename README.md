@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - 3D models and animations inspired by various Three.js examples
-- Icons from [source of icons]
+- Icons from Icons8
 - Special thanks to all my clients and mentors who have supported my journey
 
 ---
